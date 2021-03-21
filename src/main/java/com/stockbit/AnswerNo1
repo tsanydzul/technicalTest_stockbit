@@ -1,0 +1,1 @@
+select A.id, A.name, B.name from demo.user A left join demo.user B on A.id = B.parent;
