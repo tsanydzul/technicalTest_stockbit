@@ -9,7 +9,7 @@ For question no.2 , things you need to do before running the app:
 
 to get the right answer for the question, question file (test3.txt) attached inside the project.
 
-call get method with http://localhost:8081/kafka/publish/test3.txt, where test3.txt is the file name that will send by producer to customer.
+call get method with http://localhost:8081/kafka/publish/test3.txt, where test3.txt is the file name that will send by producer to consumer.
 
 summary result that costumer proceed would be shown on the project console.
 
